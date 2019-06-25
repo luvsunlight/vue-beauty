@@ -2,7 +2,13 @@
 
 > 一个vue工程的练手之作
 
-# 主要涉及到的技术栈
+## Screenshots
+
+![](https://github.com/luvsunlight/vue-beauty/blob/master/screenshots/main.png)
+
+![](https://github.com/luvsunlight/vue-chat/blob/master/screenshots/dashboard.png)
+
+## 技术栈
 
 * vue
 * vuex
